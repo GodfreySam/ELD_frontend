@@ -42,4 +42,4 @@ npm run preview    # preview build locally
 - Ensure the backend is running (default: http://localhost:8000)
 - CORS errors: configure CORS on the backend (`CORS_ALLOWED_ORIGINS` or `CORS_ALLOW_ALL=true` in dev)
 
-For backend setup and deployment, see the repo root `README.md`.
+For deployed frontend, see: https://eld-frontend-beryl.vercel.app
